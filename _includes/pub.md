@@ -1,9 +1,10 @@
 <span id="-publications"></span>
 # 📝 Publications 
 
-- `CCF A` Health-Radio: Towards Contactless Myocardial Infarction Detection Using Radio Signals. IEEE Transactions of Mobile Computing. 21(2): 585-597 (2022) 
-- ``CCF A`` MC-Tracking:Towards Ubiquitous Menstrual Cycle Tracking using the Smartphone. IEEE Transactions of Mobile Computing(2023)
-- ``CCF A``Ubicon-BP: Towards Ubiquitous, Contactless Blood Pressure Detection Using Smartphone. IEEE Transactions of Mobile Computing. (2025) 
+- `CCF A` Health-Radio: Towards Contactless Myocardial Infarction Detection Using Radio Signals. IEEE Transactions of Mobile Computing. 21(2): 585-597 (2022).
+- ``CCF A`` MC-Tracking:Towards Ubiquitous Menstrual Cycle Tracking using the Smartphone. IEEE Transactions of Mobile Computing(2023).
+- ``CCF A``Ubicon-BP: Towards Ubiquitous, Contactless Blood Pressure Detection Using Smartphone. IEEE Transactions of Mobile Computing. (2025).
+- ``CCF A``FingerVib: Fortifying Acoustic-based Authentication with Finger Vibration Biometric on Smartphone. IEEE Transactions on Information Forensics & Security. (2025) 
 - ``CCF A`` An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers. IEEE Transactions on Dependable and Secure Computing ,2025.
 - ``SCI 一区``Ubi-Fatigue: Towards Ubiquitous Fatigue Detection via contactless sensing[J]. IEEE Internet of Things Journal, 2022.（IF=10.2）
 - ``SCI 一区``Ubi-Asthma: Towards Ubiquitous Asthma Detection using the Smartwatch[J]. IEEE Internet of Things Journal, 2023.（IF=10.2）
