@@ -13,6 +13,6 @@ permalink: /tutor/
 
 ## 方法二：页面内嵌（iframe）  
 
-<iframe src="https://Yuzhuo-Jiang.github.io/yuan-wu.github.io/" 
+<iframe src="https://jyz-wtu.github.io/yuan-wu.github.io/" 
         width="100%" height="900px" style="border:1px solid #ccc;">
 </iframe>
