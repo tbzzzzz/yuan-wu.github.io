@@ -6,7 +6,7 @@
 - ``CCF A``Ubicon-BP: Towards Ubiquitous, Contactless Blood Pressure Detection Using Smartphone. IEEE Transactions of Mobile Computing. (2025).
 - ``CCF A``FingerVib: Fortifying Acoustic-based Authentication with Finger Vibration Biometric on Smartphone. IEEE Transactions on Information Forensics & Security. (2025). 
 - ``CCF A`` An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers. IEEE Transactions on Dependable and Secure Computing ,2025.
-- `SCI 一区Top`Ubi-Fatigue: Towards Ubiquitous Fatigue Detection via contactless sensing[J]. IEEE Internet of Things Journal, 2022.（IF=10.2）
+- `SCI 一区Top` Ubi-Fatigue: Towards Ubiquitous Fatigue Detection via contactless sensing[J]. IEEE Internet of Things Journal, 2022.（IF=10.2）
 - ``SCI 一区Top``Ubi-Asthma: Towards Ubiquitous Asthma Detection using the Smartwatch[J]. IEEE Internet of Things Journal, 2023.（IF=10.2）
 - `SCI 一区Top`DMHC: Device-Free Multi-modal Handwritten Character Recognition System with Acoustic Signal[J]. Knowledge-Based Systems, 2023.（IF=8.34）
 - `CCF B`  WIB: Real-time, Non-intrusive Blood Pressure Detection Using Smartphones." ACM Transactions on Sensor Networks 19.4 (2023): 1-27.(ACM Trans)
