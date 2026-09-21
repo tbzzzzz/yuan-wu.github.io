@@ -24,3 +24,4 @@
 - `SCI 一区Top`M-Fitness: Compound Exercise Recognition For Device-free Fitness Assistant Using Commodity Millimeter Wave Radar. IEEE Internet of Things Journal, 2026.(通讯作者)
 - `SCI 一区Top`Le-Radio: Towards High-gloss Leather Defect Detection Using Wireless Signal. IEEE Internet of Things Journal, 2026.(通讯作者)
 - `SCI 二区Top`BodySensor: Robust NLOS Human Tracking in Cluttered Distribution Rooms via RF Signals. IEEE Transactions on Instrumentation & Measurement, 2026.(通讯作者)
+- `CCF B`mmVibFlow: Gauging the Airflow of Air Conditioning Using mmWave Signal. ACM Transactions on Sensor Networks, 2024.(CCF推荐 B 类期刊, ACM Trans，第一作者)
