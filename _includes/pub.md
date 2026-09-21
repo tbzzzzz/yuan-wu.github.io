@@ -1,6 +1,7 @@
 <span id="-publications"></span>
 # 📝 Publications 
 - 发表论文20余篇，其中高水平论文20余篇，如CCF A类论文5篇,中科院一区SCI TOP期刊论文10余篇。
+- `CCF A` AcousMyopia: Exploring Smartphone Acoustic Sensing for Refractive-Error Estimation.Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies(IMWUT/UBICOMP) ,2027.(CCF推荐 A 类会议)
 - `CCF A` Health-Radio: Towards Contactless Myocardial Infarction Detection Using Radio Signals. IEEE Transactions of Mobile Computing. 21(2): 585-597 (2022).
 - ``CCF A`` MC-Tracking:Towards Ubiquitous Menstrual Cycle Tracking using the Smartphone. IEEE Transactions of Mobile Computing(2023).
 - ``CCF A``Ubicon-BP: Towards Ubiquitous, Contactless Blood Pressure Detection Using Smartphone. IEEE Transactions of Mobile Computing. (2025).
